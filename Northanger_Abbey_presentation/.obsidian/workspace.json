@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "d4f7d085512ad93c",
+    "type": "split",
+    "children": [
+      {
+        "id": "13981692563685f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07222e538371d562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "presentation_outline2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "950abd07a3faf185",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e4cf22be1ab7b24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dc78d7c627cd43f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ddf47e1bc5ece7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8b9cfc9fed5d63d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "34649ec216d8a09c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc2289d7c397ae9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cd236e9947945c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "presentation_outline2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb650b24c931cd66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "presentation_outline2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad4ddbe71ff17345",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3fdca71949695cd2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "presentation_outline2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "07222e538371d562",
+  "lastOpenFiles": [
+    "Sexual Selection and Female Choice in Austen’s Northanger.pdf",
+    "Sexual Selection and Female Choice in Austen’s Northanger.pdf.crdownload",
+    "General Tilney and Tyranny.pdf",
+    "General Tilney and Tyranny.pdf.crdownload",
+    "6.2 The Female Quixote and Northanger Abbey文本细读材料.pdf",
+    "6.2 The Female Quixote and Northanger Abbey文本细读材料.pdf.crdownload",
+    "6.1 The Female Quixote and Northanger Abbey的故事.pdf",
+    "6.1 The Female Quixote and Northanger Abbey的故事.pdf.crdownload",
+    "presentation_outline.md",
+    "Northanger abbey.md"
+  ]
+}
