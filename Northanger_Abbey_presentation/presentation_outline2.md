@@ -1,8 +1,8 @@
 # Comparison of "Northanger Abbey" in Novel and Film Adaptations
 
-## 比较小说和电影对人物刻画的异同——以Catherine为例
+## 比较小说和电影对主人公Catherine刻画的异同：Conflict between fantasy and reality
 
-## 比较小说和电影在主题表达的差异
+## 比较小说和电影所表达出的主题的不同
 
 ### 电影：
 
@@ -12,7 +12,7 @@
 
 ### Theme 1: The Impact of Emotional Overindulgence in Arts
 
-In the film adaptation of "Northanger Abbey," the focus shifts to the discussion of how popular culture influences young minds, particularly through the lens of Gothic novels. This theme is highlighted in an early, poignant conversation between Catherine's parents, who express concern about her reading habits:
+In the film adaptation of "Northanger Abbey," the focus shifts to the discussion of how Gothic novels influence young minds, particularly through the lens of Gothic novels. This theme is highlighted in an early, poignant conversation between Catherine's parents, who express concern about her reading habits:
 
 - _Mother_: "I wonder if it can be good for her, my dear, to read quite so many novels?"
 - _Father_: "What could be a more innocent or harmless pastime for a young girl than reading?"
