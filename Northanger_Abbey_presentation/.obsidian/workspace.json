@@ -30,20 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "74ab651678289ea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "presentation_outline2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "34649ec216d8a09c",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "presentation_outline3.md",
+                "file": "outline 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "presentation_outline3.md",
+                "file": "outline 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "presentation_outline3.md"
+                "file": "outline 4.md"
               }
             }
           }
@@ -171,8 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "07222e538371d562",
+  "active": "985d1e78d154dd5a",
   "lastOpenFiles": [
+    "presentation_outline2.md",
+    "presentation_outline3.md",
+    "The Development of the Interpretation and Image of Virgin Mary under the Feminist Perspective.md",
     "pptD2F0.tmp",
     "~WRL0335.tmp",
     "~WRD0323.tmp",
@@ -183,9 +174,7 @@
     "~WRL3553.tmp",
     "~WRD3541.tmp",
     "~WRL0955.tmp",
-    "~WRD0947.tmp",
     "outline 4.md",
-    "presentation_outline3.md",
     "image/h.t.2.jpg",
     "image/h.t.1.jpg",
     "image/HenryTilney.webp",
@@ -196,7 +185,6 @@
     "image/G.T.2.jpg",
     "image/G.T.1.jpg",
     "image/F.png",
-    "presentation_outline2.md",
     "presentation_outline.md",
     "Northanger abbey.md"
   ]
